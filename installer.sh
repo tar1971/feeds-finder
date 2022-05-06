@@ -7,8 +7,9 @@
 
 # my config script #
 
-MY_IPK_PY2="feeds-finder_V1.6_py2_all.ipk"
-MY_IPK_PY3="feeds-finder_V1.6_py3_all.ipk"
+MY_IPK_PY2="https://github.com/tar1971/feeds-finder/blob/main/feeds-finder_V1.6_py2_all.ipk?raw=true
+"
+MY_IPK_PY3="https://github.com/tar1971/feeds-finder/blob/main/feeds-finder_V1.6_py3_all.ipk?raw=true"
 MY_URL="https://raw.githubusercontent.com/tar1971/feeds-finder/main"
 PYTHON_VERSION=$(python -c 'import sys; print(sys.version_info[0])')
 
