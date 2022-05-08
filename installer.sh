@@ -1,6 +1,6 @@
 #!/bin/bash
 ######################################################################################
-## Command=wget https://raw.githubusercontent.com/tarekzoka/feeds-finder/main/installer.sh -O - | /bin/sh
+## Command=wget https://raw.githubusercontent.com/tar1971/feeds-finder/main/installer.sh -O - | /bin/sh
 ##
 ###########################################
 ###########################################
@@ -9,7 +9,7 @@
 
 MY_IPK_PY2="feeds-finder_V1.6_py2_all.ipk"
 MY_IPK_PY3="feeds-finder_V1.6_py3_all.ipk"
-MY_URL="https://raw.githubusercontent.com/tarekzoka/feeds-finder/main"
+MY_URL="https://raw.githubusercontent.com/tar1971/feeds-finder/main"
 PYTHON_VERSION=$(python -c 'import sys; print(sys.version_info[0])')
 
 ######################################################################################
